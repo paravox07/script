@@ -1,0 +1,4 @@
+userids = {
+["2434273866"] = true,
+}
+return userids
