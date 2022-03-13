@@ -1,5 +1,5 @@
-HWID = {
-"21E36BA2-BF41-464A-8643-50637931AB9E",
+userids = {
+808784806,
 "",
 }
-return HWID
+return userids
